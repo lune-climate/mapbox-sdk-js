@@ -1,5 +1,11 @@
 # @mapbox/mapbox-sdk
 
+**Differences between the upstream and this fork:**
+
+* https://github.com/mapbox/mapbox-sdk-js/pull/496 applied
+
+---
+
 [![Build Status](https://travis-ci.com/mapbox/mapbox-sdk-js.svg?branch=main)](https://travis-ci.com/mapbox/mapbox-sdk-js)
 
 A JS SDK for working with [Mapbox APIs](https://docs.mapbox.com/api/).
